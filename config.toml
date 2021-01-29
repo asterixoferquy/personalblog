@@ -73,5 +73,11 @@ copyright = "© {year}"
   title = "Projects"
   url = "/projects"
 
+[[menu.main]]
+  identifier = "more"
+  name = "more"
+  title = "More"
+  url = "/more"
+
 [params.colors]
     fancy = "#1e88e5"
