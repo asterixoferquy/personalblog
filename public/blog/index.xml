@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on codex</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Fri, 29 Jan 2021 19:06:42 +1100</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Bombay Dog Riots</title>
+      <link>/blog/mumbai-dog-riots/</link>
+      <pubDate>Fri, 29 Jan 2021 19:06:42 +1100</pubDate>
+      
+      <guid>/blog/mumbai-dog-riots/</guid>
+      <description>In 1832, the Bombay (now Mumbai in India) Magistrates of Police decided to extend a regulation which was issued in 1813. This regulation mandated the Indian street dogs within public and government properties to be killed every year between April to May and September to October. This rule was in place to control the growing population of stray dogs. Dogs are of religious significance in the Parsee community. Hence, things got really tense around the holy day of Parsees in July 1832 and they started protests against this regulation.</description>
+    </item>
+    
+    <item>
+      <title>The Christmas Truce</title>
+      <link>/blog/christmas-truce/</link>
+      <pubDate>Sun, 24 Jan 2021 19:06:07 +1100</pubDate>
+      
+      <guid>/blog/christmas-truce/</guid>
+      <description>During the World War I (1914 - 1918), just 5 months into the war, Pope Benedict XV proposed a temporary break for Christmas celebrations. The countries involved denied this proposal but the soldiers in many of the trenches located on the Western Front declared a temporary cease-fire unofficially. On the Christmas eve, the soldiers on both sides sang Christmas carols and played musical instruments. At sunrise on the Christmas day, both forces came out of their trenches, walked to the no-man&amp;rsquo;s land, shook hands with each other, and sang songs.</description>
+    </item>
+    
+    <item>
+      <title>The historic adventures of &#39;Biryani&#39;</title>
+      <link>/blog/biryani/</link>
+      <pubDate>Sun, 17 Jan 2021 19:04:15 +1100</pubDate>
+      
+      <guid>/blog/biryani/</guid>
+      <description>Don&amp;rsquo;t you miss that strong aroma of spices blended with beautiful golden and white texture of long grain rice? The delicately cooked vegetables and meat which doesn&amp;rsquo;t require a lot of effort to chew while it melts in your mouth leaving a smile of content and satisfaction on your lips? Yes, you guessed it right. I am talking about the world-renowned delicacy - &amp;lsquo;Biryani&amp;rsquo; (well, the title of this post must have given away the answer).</description>
+    </item>
+    
+    <item>
+      <title>A brief history of the measurement - &#39;Feet&#39;</title>
+      <link>/blog/history-of-feet/</link>
+      <pubDate>Sun, 17 Jan 2021 19:00:13 +1100</pubDate>
+      
+      <guid>/blog/history-of-feet/</guid>
+      <description>Did you know that the height of the highest mountain above sea level - Mount Everest - is 29,029 feet? Did you know that sunlight can penetrate clean ocean water up to a depth of 240 feet? Or did you know that the Moon&amp;rsquo;s diameter is 11404000 feet? But have you ever wondered whose feet are we talking about here? Mine? &amp;hellip; Yours? Well, let me answer that question.
+Long time ago, when people wanted to measure distance, they did not have the luxury of long measurement tape.</description>
+    </item>
+    
+    <item>
+      <title>Understanding year notations - BC, BCE, AD, CE</title>
+      <link>/blog/year-notations/</link>
+      <pubDate>Sun, 10 Jan 2021 18:58:14 +1100</pubDate>
+      
+      <guid>/blog/year-notations/</guid>
+      <description>In order to know and understand the events in history, it is vital to understand the timeline. To understand timeline, it is important to decode the denotations for years. I mean understanding the full form and meaning of terms BC, BCE, AD and CE. Before we being, it is important to understand the concept of an “year”. An “year” that is universally accepted and followed comes from the Georgian Calendar (also commonly known as “Christian” or “Western” calendar).</description>
+    </item>
+    
+    <item>
+      <title>A small stand-up for a big impact</title>
+      <link>/blog/stand-up-meeting/</link>
+      <pubDate>Sun, 10 Jan 2021 18:51:03 +1100</pubDate>
+      
+      <guid>/blog/stand-up-meeting/</guid>
+      <description>In my time as a student, an IT professional as well as a teaching assistant, I often came across a very small yet important concept of project management - a stand-up meeting. While I enjoyed having it, I observed that most of the students as well as IT professionals working in the industry find it either a waste of time or think of it as a redundant act of a typical meeting with just one difference - standing up.</description>
+    </item>
+    
+    <item>
+      <title>Interface design for humans - Part 2</title>
+      <link>/blog/interface-design-2/</link>
+      <pubDate>Sun, 03 Jan 2021 18:48:36 +1100</pubDate>
+      
+      <guid>/blog/interface-design-2/</guid>
+      <description>Did you know that colours play a very important role in the way a living being perceives information? Colours are not just a topic in fine-arts but they are a science in itself. Don’t worry, I am not going to get into the physics of a prism converting the white light into rainbow colours. But if you are interested in it, please read https://www.physicsclassroom.com/class/refrn/Lesson-4/Dispersion-of-Light-by-Prismsin your spare time. It is really interesting.</description>
+    </item>
+    
+    <item>
+      <title>Interface design for humans - Part 1</title>
+      <link>/blog/interface-design/</link>
+      <pubDate>Sun, 27 Dec 2020 18:42:44 +1100</pubDate>
+      
+      <guid>/blog/interface-design/</guid>
+      <description>There is often a dilemma between making something complex and making something beautiful. Yes, I said ‘beautiful’ and not ‘simple’. Something complex in the back-end doesn’t mean it has to be confusing in the front-end. I have come across many applications that are packed with amazing functionalities and very well-thought back-end code design but simply lack a good interface. The outcome? Either I feel the system is too complicated to even consider using it or even if I use it, I lose interest in no time.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
-title: "The historic adventures of 'Biryani'"
+title: "The historic adventures of the Biryani"
 date: 2021-01-17T19:04:15+11:00
 slug: ""
 description: ""

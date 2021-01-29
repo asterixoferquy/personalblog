@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-01-29T19:06:42+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2021-01-29T19:06:42+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/history/</loc>
+    <lastmod>2021-01-29T19:06:42+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-29T19:06:42+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/mumbai-dog-riots/</loc>
+    <lastmod>2021-01-29T19:06:42+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/christmas-truce/</loc>
+    <lastmod>2021-01-24T19:06:07+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/biryani/</loc>
+    <lastmod>2021-01-17T19:04:15+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/history-of-feet/</loc>
+    <lastmod>2021-01-17T19:00:13+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/year-notations/</loc>
+    <lastmod>2021-01-10T18:58:14+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/stand-up-meeting/</loc>
+    <lastmod>2021-01-10T18:51:03+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/project-management/</loc>
+    <lastmod>2021-01-10T18:51:03+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/interface-design-2/</loc>
+    <lastmod>2021-01-03T18:48:36+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/interface-design/</loc>
+    <lastmod>2020-12-27T18:42:44+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/ui/ux/</loc>
+  </url>
+  
+</urlset>

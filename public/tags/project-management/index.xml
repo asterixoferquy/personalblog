@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project-management on codex</title>
+    <link>/tags/project-management/</link>
+    <description>Recent content in project-management on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 10 Jan 2021 18:51:03 +1100</lastBuildDate><atom:link href="/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A small stand-up for a big impact</title>
+      <link>/blog/stand-up-meeting/</link>
+      <pubDate>Sun, 10 Jan 2021 18:51:03 +1100</pubDate>
+      
+      <guid>/blog/stand-up-meeting/</guid>
+      <description>In my time as a student, an IT professional as well as a teaching assistant, I often came across a very small yet important concept of project management - a stand-up meeting. While I enjoyed having it, I observed that most of the students as well as IT professionals working in the industry find it either a waste of time or think of it as a redundant act of a typical meeting with just one difference - standing up.</description>
+    </item>
+    
+  </channel>
+</rss>
