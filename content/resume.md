@@ -51,22 +51,25 @@ Enhanced overall performance of cloud infrastructure by developing and maintaini
 
 # Education
 
-### Master of Business Information Systems
-**Monash University, Melbourne | 2017**
+**Master of Business Information Systems**
+Monash University, Melbourne | 2017
 
-### Master of Science in Computer Applications
-**Symbiosis International University, India | 2015**
+**Master of Science in Computer Applications**
+Symbiosis International University, India | 2015
 
-### Bachelor of Computer Applications
-**The Maharaja Sayajirao University of Baroda, Baroda, India | 2013**
+**Bachelor of Computer Applications**
+The Maharaja Sayajirao University of Baroda, Baroda, India | 2013
 
 
 # Certifications
 
-### Microsoft Certified Data Analyst Associate • July 2020
-**Microsoft Power BI | Data Analysis | Reporting and Dashboards**
+**Microsoft Certified Data Analyst Associate • July 2020**
+Microsoft Power BI | Data Analysis | Reporting and Dashboards
 
-### Professional Scrum Master I • September 2018
-**Agile | Project Management**
+**Professional Scrum Master I • September 2018**
+Agile | Project Management
+
+
+
 
 
