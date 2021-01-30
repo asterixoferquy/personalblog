@@ -74,10 +74,10 @@ copyright = "© {year}"
   url = "/projects"
 
 [[menu.main]]
-  identifier = "more"
-  name = "more"
-  title = "More"
-  url = "/more"
+  identifier = "system"
+  name = "system"
+  title = "System"
+  url = "/system"
 
 [[menu.main]]
   identifier = "resume"

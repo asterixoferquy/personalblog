@@ -1,15 +1,8 @@
 ---
-title: "more about me"
+title: "system"
 date: 
 draft: false
 ---
-**→ technical business analyst [@ ava risk group](https://www.theavagroup.com/)** 🧐  
-**→ teaching admin + former systems analyst [@ monash](https://www.theavagroup.com/) 👨‍🏫**  
-**→ certified professional scrum master [@ scrum.org](https://www.scrum.org/) 👨‍💼**  
-**→ microsoft certified data analyst associate 📊**  
-**→ history and space lover!! 🚀**  
-**→ ui/ux enthusiast 💻**  
-
 
 ## **my work tools 🛠️**
 
