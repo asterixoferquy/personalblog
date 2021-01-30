@@ -10,7 +10,7 @@ Industrious Business Analyst with a successful history in developing software an
 
 **Technical skills:** Jira, Confluence, Microsoft Project, Microsoft Office Suite, Power BI, SQL, XML, Google Analytics, .Net Technologies, Tableau, Microsoft Visio, Azure DevOps.
 
-**Business skills:** Requirements Analysis, Change Management, Team Building & Leadership, Strategic Planning, Stakeholder Engagement, Risk Management, Process Improvement, IT Support Management  
+**Business skills:** Requirements Analysis, Change Management, Team Building & Leadership, Strategic Planning, Stakeholder Engagement, Risk Management, Process Improvement, IT Support Management    
 
 ---
 
