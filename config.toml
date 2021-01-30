@@ -79,5 +79,11 @@ copyright = "© {year}"
   title = "More"
   url = "/more"
 
+[[menu.main]]
+  identifier = "resume"
+  name = "resume"
+  title = "Resume"
+  url = "/resume"
+
 [params.colors]
     fancy = "#1e88e5"
