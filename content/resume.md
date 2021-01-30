@@ -11,8 +11,7 @@ Industrious Business Analyst with a successful history in developing software an
 **Technical skills:** Jira, Confluence, Microsoft Project, Microsoft Office Suite, Power BI, SQL, XML, Google Analytics, .Net Technologies, Tableau, Microsoft Visio, Azure DevOps.
 
 **Business skills:** Requirements Analysis, Change Management, Team Building & Leadership, Strategic Planning, Stakeholder Engagement, Risk Management, Process Improvement, IT Support Management    
-
----
+  
 
 # Professoinal Experience
 
@@ -47,8 +46,7 @@ Enhanced overall performance of cloud infrastructure by developing and maintaini
 **Key Accomplishments:**  
 - Performed remote and on-site troubleshooting, responding to network demands from over 1000 in-house clients, and improved overall cloud delivery performance efficiency by 15%.
 - Developed software code to create an online portal using VB.Net technology while applying the Model-View-Control (MVC) framework.  
-
----
+  
 
 # Education
 
@@ -60,8 +58,7 @@ Symbiosis International University, India | 2015
 
 **Bachelor of Computer Applications**  
 The Maharaja Sayajirao University of Baroda, Baroda, India | 2013  
-
----
+  
 
 # Certifications
 
