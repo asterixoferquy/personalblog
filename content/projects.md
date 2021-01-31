@@ -1,5 +1,5 @@
 ---
-title: "some projects I've worked on"
+title: "Some projects I've worked on"
 date: 
 slug: ""
 description: ""

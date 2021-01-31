@@ -1,5 +1,5 @@
 ---
-title: "my resume"
+title: "My resume"
 date: 
 draft: false
 ---

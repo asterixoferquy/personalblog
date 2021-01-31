@@ -1,4 +1,4 @@
 ---
-heading: "hi! i'm ankit mehta"
+heading: "Hi! 👋 I'm Ankit Mehta"
 subheading: "a technical business analyst 👨‍💻"
 ---
