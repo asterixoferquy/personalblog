@@ -4,7 +4,7 @@ date:
 draft: false
 ---
 
-## **my work tools 🛠️**
+### Some of my work tools 🛠️
 
 → microsoft office suite  
 → microsoft visual studio  
@@ -20,7 +20,7 @@ draft: false
 → wordpress  
 
 
-### things i love
+### Things I love
 
 → 📜 history  
 → 🛰️ space  
@@ -36,7 +36,7 @@ draft: false
 → 💡 productivity  
 
 
-### my productivity system
+### My productivity system
 
 → 📔 [google keep](https://keep.google.com/) (digital notes)  
 → 📅 [google calendar](https://www.google.com/calendar/about/) (meetings and events)  
@@ -47,7 +47,7 @@ draft: false
 → 🎧 [Defonic](https://defonic.com/) and [Soundescape](https://soundescape.io/) (ASMR sounds for focus)  
 
 
-### podcasts i listen to
+### Podcasts I listen to
 
 → 👨‍💼 [mastering business analysis](https://masteringbusinessanalysis.com/player/) (business analysis)  
 → 🌄 [a16z podcast network](https://a16z.com/podcasts/) (business, environment and technology)  
@@ -57,7 +57,7 @@ draft: false
 → 🖌️ [new layer](https://anchor.fm/new-layer) (product design)  
 
 
-### resources i love
+### Resources I love
 
 → 🎨 [coolors](https://coolors.co/) (colour schemes generator)  
 → 💻 [ux masterclass](https://uxmasterclass.design/?ref=producthunt) (best practices of ui/ux design)  
