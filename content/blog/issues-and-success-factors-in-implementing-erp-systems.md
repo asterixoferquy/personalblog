@@ -1,5 +1,5 @@
 ---
-title: "Organisational Issues and Success Factors in Implementing ERP Systems"
+title: "Organisational issues and success factors in implementing ERP systems"
 date: 2021-02-08T16:05:34+11:00
 slug: ""
 description: ""
