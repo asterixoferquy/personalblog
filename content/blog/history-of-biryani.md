@@ -25,12 +25,18 @@ It is impossible for someone to talk about Biryani without referring to the city
 
 So, what type of Biryani are you having today?
 
-💡 **Something Interesting**
+💡 **Something Interesting**  
+
 In current day Iran, which is known to be the birth place of Biryani, the street-food 'Birian' doesn't even contain rice. In fact, it is made from covering chunks of meat with paper-thin bread.
 
-📓 **References**
+📓 **References**  
+
 https://www.petupankaj.com/pages/history-of-biryani
+
 https://international.thenewslens.com/article/113865
+
 https://www.news18.com/news/lifestyle/food-from-persia-to-your-plate-origin-history-and-types-of-biryani-1336569.html#:~:text=The word Biryani is derived,the Persian word for rice.&text=Many historians believe that biryani,in the Mughal royal kitchen.
+
 https://indiacurrents.com/tracing-the-history-of-biryani/
+
 https://www.bbc.com/news/world-asia-india-36423412

@@ -33,5 +33,6 @@ If one just uses a number for an year without using any letters following it (wh
 
 For example, The Roman Principate began in 27 BC and ended in 284 AD. In this case, one needs to add 284 + 27 to find the number of years the Roman Principate lasted. Therefore, we get the result as 311 years. 
 
-💡 **Something Interesting**
+💡 **Something Interesting**  
+
 There are few countries today which have still not adopted the Georgian Calendar. They are Ethiopia, Nepal, Iran and Afghanistan.

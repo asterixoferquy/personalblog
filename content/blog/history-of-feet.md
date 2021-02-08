@@ -20,10 +20,18 @@ Finally, King Henry I of England came up with a law. He declared that the length
 
 In 1959, United Kingdom, Australia, Canada, the United States of America, South Africa, and New Zealand signed a treaty by the name of 'International Yard and Pound Agreement'. This standardised the various units of measuring weight and lengths. Hence, feet is used in both, Imperial as well as United States Customary systems.
 
-📓 **References**
-W.M. Flinders Petrie. Inductive Metrology: the recovery of ancient measures from the monuments. Hargrove Saunders, London 1877
+📓 **References**  
+
+W.M. Flinders Petrie. Inductive Metrology: the recovery of ancient measures from the monuments. Hargrove Saunders, London 1877  
+
 [https://sparkfiles.net/foot-whats-special-12-inches](https://sparkfiles.net/foot-whats-special-12-inches)
+
 [https://www.did-you-knows.com/did-you-know-facts/distance.php?page=2](https://www.did-you-knows.com/did-you-know-facts/distance.php?page=2)
+
 [https://www.factmonster.com/math-science/weights-measures/origins-of-measurements](https://www.factmonster.com/math-science/weights-measures/origins-of-measurements)
-[https://www.magzter.com/article/Children/Muse-Science-Magazine-for-Kids/Whose-Foot](https://www.magzter.com/article/Children/Muse-Science-Magazine-for-Kids/Whose-Foot)
+
+[https://www.magzter.com/article/Children/
+
+Muse-Science-Magazine-for-Kids/Whose-Foot](https://www.magzter.com/article/Children/Muse-Science-Magazine-for-Kids/Whose-Foot)
+
 [http://www.dozenalsociety.org.uk/history/feet.html](http://www.dozenalsociety.org.uk/history/feet.html)
