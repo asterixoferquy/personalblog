@@ -73,5 +73,17 @@ copyright = "© {year}"
   title = "Projects"
   url = "/projects"
 
+[[menu.main]]
+  identifier = "system"
+  name = "system"
+  title = "System"
+  url = "/system"
+
+[[menu.main]]
+  identifier = "resume"
+  name = "resume"
+  title = "Resume"
+  url = "/resume"
+
 [params.colors]
     fancy = "#1e88e5"
