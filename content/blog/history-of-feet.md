@@ -30,8 +30,6 @@ W.M. Flinders Petrie. Inductive Metrology: the recovery of ancient measures from
 
 [https://www.factmonster.com/math-science/weights-measures/origins-of-measurements](https://www.factmonster.com/math-science/weights-measures/origins-of-measurements)
 
-[https://www.magzter.com/article/Children/
-
-Muse-Science-Magazine-for-Kids/Whose-Foot](https://www.magzter.com/article/Children/Muse-Science-Magazine-for-Kids/Whose-Foot)
+[https://www.magzter.com/article/Children/Muse-Science-Magazine-for-Kids/Whose-Foot](https://www.magzter.com/article/Children/Muse-Science-Magazine-for-Kids/Whose-Foot)
 
 [http://www.dozenalsociety.org.uk/history/feet.html](http://www.dozenalsociety.org.uk/history/feet.html)
