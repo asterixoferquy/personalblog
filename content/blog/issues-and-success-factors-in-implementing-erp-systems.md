@@ -116,51 +116,93 @@ There is no doubt that ERP brings a lot of good cards on the table but needs to 
 
 # References  
 
-Aarabi, M., Saman, M. Z. M., Wong, K. Y., Azadnia, A. H., & Zakun, N. (2012). A Comparative Study on Critical Success Factors (CSFs) of ERP Systems Implementation among SMEs and Large Firms in Developing Countries. International Journal of Advancements in Computing Technology, 4(9). 
+Aarabi, M., Saman, M. Z. M., Wong, K. Y., Azadnia, A. H., & Zakun, N. (2012). A Comparative Study on Critical Success Factors (CSFs) of ERP Systems Implementation among SMEs and Large Firms in Developing Countries. International Journal of Advancements in Computing Technology, 4(9).
+
 Aiken, P. (2002). Enterprise resource planning (ERP) considerations. VCU/Institute for Data Research.
+
 Agourram, H. (2009). Defining information system success in Germany. International Journal of Information Management, 29(2), 129–137.
-Aladwani, A. M. (2001). Change management strategies for successful ERP implementation. Business Process management journal, 7(3), 266-275. 
+
+Aladwani, A. M. (2001). Change management strategies for successful ERP implementation. Business Process management journal, 7(3), 266-275.
+
 Bendoly, E., & Schoenherr, T. (2005). ERP system and implementation-process benefits: Implications for B2B e-procurement. International Journal of Operations & Production Management, 25(4), 304-319.
+
 Blanchard, D. (1998). ERP the great equalizer. Evolving Enterprise, 1(1).
+
 Chiang, M. H. (2013). Organizational Change in ERP Implementation: A dialectical perspective. Journal of Global Business Management, 9(1), 175.
+
 Chien, S. W., Hu, C., Reimers, K., & Lin, J. S. (2007). The influence of centrifugal and centripetal forces on ERP project success in small and medium-sized enterprises in China and Taiwan. International Journal of Production Economics, 107(2), 380-396.
+
 Dezdar, M., & Haghighi, M. (2014). Feasibility of implementing enterprise resource planning (ERP) in the exploitation of oil and gas company of Gachsaran based on McKinsey 7s model. Advances in Environmental Biology, 223-231.
+
 Donovan, R. M. (1999). Successful ERP implementation the first time. Mid-Range ERP. August. Available from: http://www. rmdonovan. com/pdf/perfor8. pdf.
+
 Dorantes, C., Li, C., Peters, G. F., & Richardson, V. J. (2013). The Effect of Enterprise Systems Implementation on the Firm Information Environment. Contemporary Accounting Research, 30(4), 1427-1461. doi:10.1111/1911-3846.12001
+
 Ehie, I. C., & Madsen, M. (2005). Identifying critical issues in enterprise resource planning (ERP) implementation. Computers in industry, 56(6), 545-557.
-Gavidia, J. V. (2016). Impact of parent-subsidiary conflict on ERP implementation. Journal of Enterprise Information Management, 29(1). 
+
+Gavidia, J. V. (2016). Impact of parent-subsidiary conflict on ERP implementation. Journal of Enterprise Information Management, 29(1).
+
 Gross, J. (2013). A Case Study on Hershey’s ERP Implementation Failure: The Importance of Testing and Scheduling. Retrieved from https://www.pemeco.com/wp-content/uploads/2013/09/Hershey_ERP_Case_Study.pdf
+
 Hendricks, K. B., Singhal, V. R., & Stratman, J. K. (2007). The impact of enterprise systems on corporate performance: A study of ERP, SCM, and CRM system implementations. Journal of Operations Management, 25(1), 65–82.
+
 HassabElnaby, H. R., Hwang, W., & Vonderembse, M. A. (2012). The impact of ERP implementation on organizational capabilities and firm performance. Benchmarking: An International Journal, 19(4/5), 618-633.
+
 Hitt, L. M., & DJ Wu, X. Z. (2002). Investment in enterprise resource planning: Business impact and productivity measures. Journal of Management Information Systems, 19(1), 71-98.
+
 Jianxin, Z., Xiaoyuan, J., Dunming, L., Bifeng, G., Bihong, G., Shengyong, P., & Hongtao, T. (2013). Research and application of enterprise resource planning system for foundry enterprises. China Foundry, 1, 004.
+
 Klaus, H., Rosemann, M., & Gable, G. G. (2000). What is ERP? Information systems frontiers, 2(2), 141-162.
+
 Law, C. C., Chen, C. C., & Wu, B. J. (2010). Managing the full ERP life-cycle: Considerations of maintenance and support requirements and IT governance practice as integral elements of the formula for successful ERP adoption. Computers in Industry, 61(3), 297-308.
+
 Liu, B., & Zhou, Y. (2001). ERP and its application in China. In Proceedings of the 1st International Conference on Electronic Business.
+
 Mandal, P., & Gunasekaran, A. (2003). Issues in implementing ERP: A case study. European Journal of Operational Research, 146(2), 274-283.
+
 Martin, M. H. (1998). An ERP strategy. Fortune, 2 (1998), pp. 95–97.
+
 Migdadi, M. M., & Abu Zaid, M. K. S. (2016). An empirical investigation of knowledge management competence for enterprise resource planning systems success: insights from Jordan. International Journal of Production Research, 1-19.
+
 Misra, S. C., Singh, V., Jha, N. K., & Bisui, S. (2016). Modeling privacy issues in distributed enterprise resource planning systems. International Journal of Communication Systems, 29(2), 378-401.
+
 Motwani, J., Mirchandani, D., Madan, M., & Gunasegaram, A. (2002). Successful implementation of ERP projects: evidence from two case studies. International Journal of Production Economics, 75(1), 83-96.
+
 Nah, G.F.H., Lau, J.L.S. and Kuang, J. (2001), “Critical factors for successful integration of enterprise systems”, Business Process Management Journal, Vol. 7 No. 3, pp. 285-96.
 Neal, H. (2010). ERP Implementation Strategies-A Guide to ERP Implementation Methodology. Retrieved May, 15, 2010.
+
 Nwankpa, J. K. (2015). ERP system usage and benefit: A model of antecedents and outcomes. Computers in Human Behavior, 45, 335-344.
+
 Oja, M. K., & Lucas, W. (2011). Erp Usability Issues From The User And Expert Perspectives. Journal of Information Technology Case and Application Research, 13(3), 21-40.
+
 O'Leary, D. E. (2004). Enterprise resource planning (ERP) systems: an empirical analysis of
 benefits. Journal of Emerging Technologies in Accounting, 1(1), 63-72.
+
 http://dx.doi.org/10.2308/jeta.2004.1.1.63
 Piazolo, F., & Felderer, M. (Eds.). (2016). Multidimensional Views on Enterprise Information Systems: Proceedings of ERP Future 2014 (Vol. 12). Springer.
-Rouse, M., (2014). What is ERP. Retrieved from http://searchsap.techtarget.com/definition/ERP
-Pinto, J. K., & Slevin, D. P. (1987). Critical factors in successful project implementation. Engineering Management, IEEE Transactions on, (1), 22-27.
-Ross, J. W., & Vitale, M. (2000). The ERP revolution: Surviving versus thriving. Information Systems Frontiers, 2(2), 233–241.
-Scheer, A. W., & Habermann, F. (2000). Enterprise resource planning: making ERP a success. Communications of the ACM, 43(4), 57-61.
-Seo, G. (2013). Challenges in implementing enterprise resource planning (ERP) system in large organizations: similarities and differences between corporate and university environment (Doctoral dissertation, Massachusetts Institute of Technology).
-Sun, A. Y., Yazdani, A., & Overend, J. D. (2005). Achievement assessment for enterprise resource planning (ERP) system implementations based on critical success factors (CSFs). International journal of production economics, 98(2), 189-203.
-Staehr, L., Shanks, G., & Seddon, P. B. (2012). An explanatory framework for achieving business benefits from ERP systems. Journal of the Association for Information Systems, 13(6), 424.
-Swartz, D., & Orgill, K. (2001). Higher education ERP: Lessons learned. Educause Quarterly, 24(2), 20-27.
-Tsai, W. H., Chien, S. W., Fan, Y. W., & Cheng, J. M. S. (2004). Critical management issues in implementing ERP: empirical evidences from Taiwanese firms. International Journal of Services and Standards, 1(3), 299-318.
-Volkoff, O. (1999). Using the structurational model of technology to analyse an ERP implementation. AMCIS 1999 Proceedings, 84.
-Wang, E., Chou, H. W., & Jiang, J. (2005). The impacts of charismatic leadership style on team cohesiveness and overall performance during ERP implementation. International Journal of Project Management, 23(3), 173-180.
-Woods, J. (2011). Key issues for ERP and enterprise suite strategies and value realization. Gartner Research.
-Zare Ravasan, A., & Mansouri, T. (2016). A dynamic ERP critical failure factors modelling with FCM throughout project lifecycle phases. Production Planning & Control, 27(2), 65-82. DOI: 10.1080/09537287.2015.1064551
 
+Rouse, M., (2014). What is ERP. Retrieved from http://searchsap.techtarget.com/definition/ERP
+
+Pinto, J. K., & Slevin, D. P. (1987). Critical factors in successful project implementation. Engineering Management, IEEE Transactions on, (1), 22-27.
+
+Ross, J. W., & Vitale, M. (2000). The ERP revolution: Surviving versus thriving. Information Systems Frontiers, 2(2), 233–241.
+
+Scheer, A. W., & Habermann, F. (2000). Enterprise resource planning: making ERP a success. Communications of the ACM, 43(4), 57-61.
+
+Seo, G. (2013). Challenges in implementing enterprise resource planning (ERP) system in large organizations: similarities and differences between corporate and university environment (Doctoral dissertation, Massachusetts Institute of Technology).
+
+Sun, A. Y., Yazdani, A., & Overend, J. D. (2005). Achievement assessment for enterprise resource planning (ERP) system implementations based on critical success factors (CSFs). International journal of production economics, 98(2), 189-203.
+
+Staehr, L., Shanks, G., & Seddon, P. B. (2012). An explanatory framework for achieving business benefits from ERP systems. Journal of the Association for Information Systems, 13(6), 424.
+
+Swartz, D., & Orgill, K. (2001). Higher education ERP: Lessons learned. Educause Quarterly, 24(2), 20-27.
+
+Tsai, W. H., Chien, S. W., Fan, Y. W., & Cheng, J. M. S. (2004). Critical management issues in implementing ERP: empirical evidences from Taiwanese firms. International Journal of Services and Standards, 1(3), 299-318.
+
+Volkoff, O. (1999). Using the structurational model of technology to analyse an ERP implementation. AMCIS 1999 Proceedings, 84.
+
+Wang, E., Chou, H. W., & Jiang, J. (2005). The impacts of charismatic leadership style on team cohesiveness and overall performance during ERP implementation. International Journal of Project Management, 23(3), 173-180.
+
+Woods, J. (2011). Key issues for ERP and enterprise suite strategies and value realization. Gartner Research.
+
+Zare Ravasan, A., & Mansouri, T. (2016). A dynamic ERP critical failure factors modelling with FCM throughout project lifecycle phases. Production Planning & Control, 27(2), 65-82. DOI: 10.1080/09537287.2015.1064551
